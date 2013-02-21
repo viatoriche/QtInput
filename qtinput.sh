@@ -1,0 +1,1 @@
+/home/viator/bin/qtinput.sh

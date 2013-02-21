@@ -1,0 +1,8 @@
+QtInput
+
+Ultra minimal unix-way Qt-based text editor
+
+example:
+xsel -o | qtinput /tmp/test.txt | wc -l
+qtinput `mktemp`
+any --> qtinput (edit text) --> to file and/or pipe
